@@ -1,9 +1,23 @@
+@font-face {
+  font-family: 'Avenir Regular';
+  src: local('Avenir Regular'), url(https://ipfs.io/ipfs/QmQMuSppJw87o5yY3P5p9FpjsgE3f3e1Mu2A2iGci6nciE) format('truetype');
+}
+
+@font-face {
+  font-family: 'Avenir Heavy';
+  src: local('Avenir Heavy'), url(https://ipfs.io/ipfs/QmTh6KhE75AT2takRmR9fTt9v9mGPqinoWY5RyY2nXNoi2) format('truetype');
+}
+
+@font-face {
+  font-family: 'Avenir Light Italic';
+  src: local('Avenir Light Italic'), url(https://ipfs.io/ipfs/QmZKpUQE1NjBpGas5a1o8eYLz5TYsEXcdeAQNWxr9pdspg) format('truetype');
+}
+
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: "Avenir Regular";
 }
 
 a {

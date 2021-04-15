@@ -1,0 +1,18 @@
+.container {
+    padding: 2rem 0rem;
+    background-color: black;
+}
+
+.contact {
+    font-weight: 400;
+    color: white;
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+}
+
+.coordinates {
+    font-weight: 400;
+    color: white;
+    font-size: 0.8rem;
+    letter-spacing: 0.05rem;
+}
